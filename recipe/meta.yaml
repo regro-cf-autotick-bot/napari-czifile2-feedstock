@@ -1,5 +1,5 @@
 {% set name = "napari-czifile2" %}
-{% set version = "0.2.6" %}
+{% set version = "0.2.7" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-czifile2-{{ version }}.tar.gz
-  sha256: c6892b984f23ec5b2a1b5178032345bd06d3dd4ccf774b50fdefb6c515dacf55
+  sha256: 67ca9b3d72aac804aba4ee3b34083f59d21134ee426de95a797733573ac2ffab
 
 build:
   noarch: python
