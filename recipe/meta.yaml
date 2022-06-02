@@ -41,7 +41,7 @@ about:
   home: https://github.com/BodenmillerGroup/napari-czifile2
   summary: Carl Zeiss Image (.czi) file support for napari
   license: MIT
-  license_file: LICENSE.md
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:
